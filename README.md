@@ -29,20 +29,20 @@ Make sure you have Python 3+ installed.
 
 First, install the required libraries:
 
-bash
-Copy
-Edit
 pip install nltk colorama
+
 🛠️ Download NLTK Word Data
+
 Run this command only once to download the required datasets:
 
-python
-Copy
-Edit
 import nltk
+
 nltk.download("words")
+
 nltk.download("wordnet")
+
 nltk.download("omw-1.4")
+
 🚀 Run the Game
 Clone the repository and start playing:
 
