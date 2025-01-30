@@ -20,10 +20,13 @@ Welcome to Hangman 🎉 – a classic word-guessing game where you try to save t
 6️⃣ You have limited attempts before the stick figure is fully drawn! ☠️
 7️⃣ Win by guessing all letters before running out of attempts. 🎉
 
+
 🔧 Installation & Requirements
+
 Make sure you have Python 3+ installed.
 
 📦 Install Dependencies
+
 First, install the required libraries:
 
 bash
