@@ -21,11 +21,11 @@ Welcome to Hangman 🎉 – a classic word-guessing game where you try to save t
 7️⃣ Win by guessing all letters before running out of attempts. 🎉
 
 
-🔧 Installation & Requirements
+🔧 Installation & Requirements:
 
 Make sure you have Python 3+ installed.
 
-📦 Install Dependencies
+📦 Install Dependencies:
 
 First, install the required libraries:
 
